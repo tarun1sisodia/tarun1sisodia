@@ -1,27 +1,54 @@
-# 💫 About Me:
-👋 Hi, I’m @tarun1sisodia<br>👀 I’m interested in Building new things in Tech<br>🌱 I’m currently learning App Development, Software Development<br>📫 How to reach me check out my Google Developer profile<br>😄 Pronouns: Tarun<br>⚡ Fun fact: Synchronization to new world.
+# Hi there, I'm Tarun! 👋
 
+I'm a passionate **MCA student specializing in CyberSecurity** and a dedicated **App & Web Developer** with a focus on building secure, scalable solutions. I contribute actively to the open-source community and thrive on solving complex problems. My technical expertise spans several modern languages and frameworks, and I enjoy constantly learning new technologies and tools to enhance my skill set.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tarun1sisodia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun1sisodia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tarun1sisodia) 
+## 🚀 **Currently Working On:**
+- **Open Source Projects:** Contributing to the development of platforms like [Code Quest](https://github.com/crisecheverria/codequest-platform) and collaborating with other contributors in the tech community.
+- **Personal Projects:** Developing secure, scalable web and mobile apps using Flutter, Node.js, and AWS.
+- **Learning & Exploring:** Improving my understanding of **CyberSecurity** concepts and diving deeper into **Data Structures & Algorithms (DSA)**.
 
-# 💻 Tech Stack:
-![Javascript](https://img.shields.io/badge/js-%2300ADD8.svg?style=for-the-badge&logo=Javascript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tarun1sisodia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tarun1sisodia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun1sisodia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌱 **Learning & Growing:**
+- **Kotlin**: Building Android applications and diving deeper into the mobile development ecosystem.
+- **Java**: Strengthening my backend development skills and building enterprise-level applications.
+- **Dart & Flutter**: Mastering mobile app development for both iOS and Android with Flutter.
+- **JavaScript & Node.js**: Enhancing my skills in full-stack JavaScript development.
+- **AWS & DevOps**: Expanding my knowledge in cloud computing, containerization, and CI/CD practices.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tarun1sisodia&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+## 🎓 **Education:**
+- **Bachelor of Computer Applications (BCA)** – [Agra University,2025]
+- **CyberSecurity** specialization in **MCA** – Ongoing
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 💼 **Professional Experience:**
+- **Open Source Contributor** – Contributing to multiple open-source projects focused on security, app development, and more.
+- **App & Web Developer** – Building dynamic web applications with **Node.js**, **Flutter**, **AWS**, and **CI/CD pipelines**.
+- **Bug Hunter** – Actively finding bugs and improving systems at **Sheryians Coding School**.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tarun1sisodia&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🛠️ **Technologies & Tools:**
+- **Languages & Frameworks:**  
+  - **Dart**, **Flutter**, **Node.js**, **HTML**, **CSS**, **JavaScript**, **Kotlin**, **Java**, **Python**
+- **Security Tools & Concepts:**  
+  - **CyberSecurity** practices, vulnerability assessments, encryption techniques, secure coding
+- **Cloud & DevOps:**  
+  - **AWS**, **Git**, **CI/CD pipeline**, **Docker**
+- **Databases & Data Structures:**  
+  - **MySQL**, **PostgreSQL**, **MongoDB**, **DSA**
+- **Version Control & Collaboration:**  
+  - **Git**, **GitHub**, **GitLab**
 
----
-[![](https://visitcount.itsvg.in/api?id=tarun1sisodia&icon=2&color=1)](https://visitcount.itsvg.in)
+## 🌟 **Open Source Contributions:**  
+I actively contribute to various open-source projects, and I'm always looking for new ways to give back to the community. You can check out my contributions on [GitHub](https://github.com/tarun1sisodia).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 **Interests & Hobbies:**
+- **CyberSecurity:** Staying updated on the latest trends, vulnerabilities, and best practices in security.
+- **Problem Solving:** Continuously solving **DSA problems** to sharpen my algorithmic and logical thinking skills.
+- **Technology Enthusiast:** Reading books and articles on technology, software development, and CyberSecurity.
+- **Event Participation:** Actively attending tech events and workshops to network and learn.
+
+## 📫 **Let’s Connect!**
+- **GitHub:** [Tarun's GitHub](https://github.com/tarun1sisodia)
+- **LinkedIn:** [Tarun Sisodia](https://www.linkedin.com/in/tarun1sisodia)
+- **Email:** tarum1sisodia@gmail.com
+- **Twitter:** [@tarunsisodia](https://twitter.com/tarun1sisodia)
+
+## 🌍 **About Me:**  
+Originally from [Noida, India], I am deeply interested in building secure, scalable, and user-friendly software. My journey in CyberSecurity and software development is one of continuous learning, and I am always eager to explore new challenges and contribute to meaningful projects.
