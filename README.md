@@ -21,7 +21,7 @@ I'm a passionate **MCA student specializing in CyberSecurity** and a dedicated *
 ## 💼 **Professional Experience:**
 - **Open Source Contributor** – Contributing to multiple open-source projects focused on security, app development, and more.
 - **App & Web Developer** – Building dynamic web applications with **Node.js**, **Flutter**, **AWS**, and **CI/CD pipelines**.
-- **Bug Hunter** – Actively finding bugs and improving systems at **Sheryians Coding School**.
+- **Bug Hunter** – Actively finding bugs and improving systems at **[Sheryians Coding School](http://sheryians.com/)**.
 
 ## 🛠️ **Technologies & Tools:**
 - **Languages & Frameworks:**  
