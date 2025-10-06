@@ -76,12 +76,17 @@ This isn’t hacking — it’s **responsible disclosure**. And it’s why teams
 ---
 
 ## 🌱 CURRENTLY LEARNING
+## 🌱 CURRENTLY LEARNING
 
-- **JavaScript (Advanced)** — Deep dive into async, closures, event loop, DOM manipulation
-- **DSA Fundamentals** — Arrays, Hashing, Two Pointers, Sliding Window, Basic Recursion
-- **Flutter State Management** — Provider, Riverpod, Bloc patterns
-- **Node.js Security** — Helmet, rate limiting, input sanitization, JWT best practices
-
+- **JavaScript (Advanced)** — Async deep dive, closures, event loop, microtasks, DOM optimization
+- **DSA Fundamentals** — Arrays, Hashing, Two Pointers, Sliding Window, Recursion, basic Trees & Graphs
+- **CyberSecurity** — System hardening, network scanning, OWASP Top 10, bug bounty mindset, basic exploit analysis
+- **Node.js Security** — Helmet, rate limiting, input sanitization, JWT best practices, CSRF protection, secure headers
+- **Docker for Backend Devs** — Containerize Node + MongoDB/SQL/Postgressql, docker-compose workflows, multi-stage builds, volume management
+- **API Design & Testing** — REST standards, status codes, Postman automation, contract testing with Supertest, Swagger docs
+- **MongoDB Advanced** — Aggregation pipelines, indexing strategies, schema design, performance tuning, replica sets (basics)
+- **Backend Resilience** — Centralized error handling, logging with Winston/Morgan, graceful shutdowns, health/liveness endpoints
+  
 *(Focusing on core web + mobile + security stack — no Java/AWS distractions)*
 
 ---
@@ -90,7 +95,7 @@ This isn’t hacking — it’s **responsible disclosure**. And it’s why teams
 
 - **[Code Quest](https://github.com/crisecheverria/codequest-platform)** — Contributed bug fixes + UX improvements for coding challenge platform
 - **[OpenFiesta](https://github.com/NiladriHazra/Open-Fiesta)** — Helped optimize event registration flow + added dark mode toggle
-- **cyberThreat / BloodConnect / SmartCampus** — Sole/major contributor, maintainer, documenter
+- **[cyberThreat](https://github.com/tarun1sisodia/cyberthreat) / [BloodConnect](https://github.com/tarun1sisodia/bloodconnectbackend) / [SmartCampus](https://www.canva.com/design/DAGojAnLx0M/dpjM3UDwcl3N6ZpdzAaeYg/view?utm_content=DAGojAnLx0M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3436bd7f63)** — Sole/major contributor, maintainer, documenter
 
 > I don’t just “contribute” — I own modules, write docs, review PRs, and mentor new contributors.
 
@@ -103,19 +108,26 @@ This isn’t hacking — it’s **responsible disclosure**. And it’s why teams
 
 ---
 
-## 🛠️ TECH STACK
+## 💼 TECH STACK
 
-**Languages**: JavaScript, Dart, Python, kotlin
-**Frameworks**: Flutter, Node.js, Express, Supabase,   
-**Security**: Ethical Hacking, Obfuscation, Secure Auth, Input Validation  
-**Tools**: Git, Docker, Postman, VS Code, Android Studio  
-**Concepts**: REST APIs, JWT, RBAC, Rate Limiting, DSA Basics
+### 🧠 Languages
+`JavaScript` `TypeScript` `Python` `Dart` `Java`
 
----
+### ⚙️ Frameworks & Platforms
+`Node.js` `Express` `Flutter` `Supabase` `MongoDB` `Firebase`
+
+### 🤖 Automation & AI Tools
+`Lmarena.ai` `n8n` `Cursor.sh` `Warp Terminal` `GitHub Copilot` `Claude / ChatGPT`
+
+### 🔐 Security Focus
+`Ethical Hacking` `Secure Auth (JWT/OAuth)` `Input Sanitization` `Code Obfuscation`
+
+### 🛠️ Tools & DevOps
+`Git` `Docker` `Postman` `VS Code` `Android Studio` `MongoDB Compass` `mongosh`
 
 ## 📬 LET’S CONNECT
 
-📧 [tarum1sisodia@gmail.com](mailto:coccoder999@gmail.com)  
+📧 [coccoder999@gmail.com](mailto:coccoder999@gmail.com)  
 🐙 [github.com/tarun1sisodia](https://github.com/tarun1sisodia)  
 💼 [linkedin.com/in/tarunsisodia](https://linkedin.com/in/tarunsisodia)  
 🐦 [@tarunsisodia](https://x.com/tarunsisodia)
