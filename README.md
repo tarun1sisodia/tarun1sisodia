@@ -76,7 +76,6 @@ This isn’t hacking — it’s **responsible disclosure**. And it’s why teams
 ---
 
 ## 🌱 CURRENTLY LEARNING
-## 🌱 CURRENTLY LEARNING
 
 - **JavaScript (Advanced)** — Async deep dive, closures, event loop, microtasks, DOM optimization
 - **DSA Fundamentals** — Arrays, Hashing, Two Pointers, Sliding Window, Recursion, basic Trees & Graphs
