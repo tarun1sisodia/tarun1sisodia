@@ -1,7 +1,7 @@
 # 👋 Tarun Sisodia  
 **CyberSecurity-Focused Developer | Bug Hunter | Open Source Contributor**
 
-📍 Noida, India | 🎓 MCA (CyberSecurity) | 🛠️ Flutter • Node.js • JavaScript • DSA
+📍 Noida, India | 🎓 MCA (CyberSecurity) | 🛠️ Flutter • Node.js • JavaScript • Containers and 5+ skills 
 
 ---
 
