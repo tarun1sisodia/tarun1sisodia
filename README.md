@@ -8,9 +8,7 @@
 
 ## 💼 PROFILE
 
-Backend-focused developer with a strong foundation in building scalable, secure, and real-world applications. Currently pursuing MCA with a specialization in Cyber Security, while actively expanding into Deep Learning and AI systems.
-
-I focus on designing efficient backend architectures, handling data reliably, and ensuring systems perform under real-world conditions. My work combines development with a security-first mindset—identifying flaws, fixing them, and building resilient solutions.
+Backend-focused developer, Currently pursuing MCA, actively learning into Deep Learning and AI systems for expanding my skills set.
 
 ---
 
