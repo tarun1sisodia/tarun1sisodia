@@ -16,7 +16,7 @@ Full-stack donor-recipient coordination system designed to streamline emergency 
 
 **Stack:** Node.js, JavaScript, NOSQL, REST APIs
 
-### SmartCampus — Attendance Management Application
+### SmartCampus - Attendance Management Application
 
 Cross-platform attendance workflow application for institutions with teacher-side management, attendance recording, and reporting logic.
 
