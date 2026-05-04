@@ -4,25 +4,25 @@ Backend-Focused Full-Stack Developer | Security-Minded Builder | Startup Executi
 
 ## Opening Summary
 
-I build backend systems, APIs, and full-stack applications designed for real user workflows — with strong attention to reliability, secure logic, and scalable engineering habits. My focus is practical shipping: turning ideas into usable systems that can handle growth, debugging, and iteration.
+I build backend systems, APIs, and full-stack applications designed for real user workflows with strong attention to reliability, secure logic, and scalable engineering habits. My focus is practical shipping: turning ideas into usable systems that can handle growth, debugging, and iteration.
 
 Currently working across Node.js, JavaScript, Python, Flutter, databases, and AI-assisted development workflows.
 
 ## Projects
 
-### BloodConnect — Blood Donation Coordination Platform
+### BloodConnect - Blood Donation Coordination Platform
 
 Full-stack donor-recipient coordination system designed to streamline emergency blood requests, donor matching, registration workflows, and request tracking.
 
-**Stack:** Node.js, JavaScript, MySQL, REST APIs
+**Stack:** Node.js, JavaScript, NOSQL, REST APIs
 
 ### SmartCampus — Attendance Management Application
 
 Cross-platform attendance workflow application for institutions with teacher-side management, attendance recording, and reporting logic.
 
-**Stack:** Flutter, Backend Logic, Database Management
+**Stack:** Flutter, Node.js, DBMS
 
-### Confession App — Privacy-First Anonymous Interaction Platform
+### Confession App - Privacy-First Anonymous Interaction Platform
 
 Anonymous community posting and interaction system focused on user privacy, lightweight backend workflows, and scalable engagement logic.
 
@@ -38,4 +38,4 @@ Open to remote startup engineering, internship, and contract execution opportuni
 
 - GitHub: https://github.com/tarun1sisodia
 - LinkedIn: https://linkedin.com/in/tarunsisodia
-- Email: coccoder999@gmail.com
+- Email: tarun1sisodia@gmail.com
