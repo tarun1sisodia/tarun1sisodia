@@ -1,85 +1,41 @@
-# 👋 Tarun Sisodia  
-**Backend Developer | Cybersecurity Enthusiast | Deep Learning Explorer**
+# Tarun Sisodia
 
-📍 Greater Noida, India | 🎓 MCA (Cyber Security)  
-🛠️ Node.js • PostgreSQL • JavaScript • Python • Linux • Docker  
+Backend-Focused Full-Stack Developer | Security-Minded Builder | Startup Execution Ready
 
----
+## Opening Summary
 
-## 💼 PROFILE
+I build backend systems, APIs, and full-stack applications designed for real user workflows — with strong attention to reliability, secure logic, and scalable engineering habits. My focus is practical shipping: turning ideas into usable systems that can handle growth, debugging, and iteration.
 
-Backend-focused developer, Currently pursuing MCA, actively learning into Deep Learning and AI systems for expanding my skills set.
+Currently working across Node.js, JavaScript, Python, Flutter, databases, and AI-assisted development workflows.
 
----
+## Projects
 
-## 🧩 PROJECTS
+### BloodConnect — Blood Donation Coordination Platform
 
-### 🩸 BloodConnect — *Blood Donation Platform*
-- Developed a backend system to match donors with recipients in real-time  
-- Implemented authentication, role-based access, and data-driven matching  
-- Designed for reliability and real-world usability  
+Full-stack donor-recipient coordination system designed to streamline emergency blood requests, donor matching, registration workflows, and request tracking.
 
----
+**Stack:** Node.js, JavaScript, MySQL, REST APIs
 
-### 🎓 SmartCampus — *Attendance Management System*
-- Built a cross-platform system with Flutter + PostgreSQL backend  
-- Streamlined attendance tracking and reporting for institutions  
-- Reduced manual errors and improved efficiency  
+### SmartCampus — Attendance Management Application
 
----
+Cross-platform attendance workflow application for institutions with teacher-side management, attendance recording, and reporting logic.
 
-### 🤖 Confession App — *Anonymous Social Platform*
-- Designed a privacy-focused platform for anonymous interaction  
-- Built secure backend handling user data and engagement logic  
-- Focused on scalability and user safety  
+**Stack:** Flutter, Backend Logic, Database Management
 
----
+### Confession App — Privacy-First Anonymous Interaction Platform
 
-## 🔍 SECURITY EXPERIENCE
+Anonymous community posting and interaction system focused on user privacy, lightweight backend workflows, and scalable engagement logic.
 
-Identified and responsibly reported a critical authentication flaw in a live system, preventing unauthorized content access.  
-Focused on ethical testing, vulnerability analysis, and secure system design.
+**Stack:** Node.js, JavaScript, Database Design
 
----
+## Security-Oriented Development
 
-## 📚 CURRENT FOCUS
+Alongside product engineering, I actively analyze authentication logic, secure API behavior, access control flaws, and resilient backend practices to ensure systems are not just functional but defensible.
 
-- **Deep Learning** — Neural networks, model fundamentals, real-world applications  
-- **Backend Engineering** — API design, database optimization, system scalability  
-- **Cybersecurity** — Secure coding practices, OWASP Top 10, system hardening  
-- **System Design** — Building resilient and production-ready architectures  
+## Contact
 
----
+Open to remote startup engineering, internship, and contract execution opportunities.
 
-## 🛠️ TECH STACK
-
-**Languages:**  
-`JavaScript` `Python` `Dart`
-
-**Backend & Systems:**  
-`Node.js` `Express` `PostgreSQL` `MongoDB`
-
-**Tools & DevOps:**  
-`Git` `Docker` `Linux` `Postman`
-
-**Security:**  
-`Authentication (JWT)` `Input Validation` `Secure APIs`
-
----
-
-## 🤝 OPEN SOURCE
-
-- Contributed to real-world projects with bug fixes and feature improvements  
-- Maintain and develop independent projects with full ownership  
-
----
-
-## 📬 CONTACT
-
-📧 coccoder999@gmail.com  
-🐙 https://github.com/tarun1sisodia  
-💼 https://linkedin.com/in/tarunsisodia  
-
----
-
-> “Build systems that don’t just work — they hold under pressure.”
+- GitHub: https://github.com/tarun1sisodia
+- LinkedIn: https://linkedin.com/in/tarunsisodia
+- Email: coccoder999@gmail.com
